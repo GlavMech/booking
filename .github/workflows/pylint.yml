@@ -32,4 +32,4 @@ jobs:
 
       - name: Run Pylint
         run: |
-          pylint your_module_or_package_name
+          pylint booking
