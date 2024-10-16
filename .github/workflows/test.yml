@@ -32,4 +32,4 @@ jobs:
 
       - name: Run tests
         run: |
-          pytest test/.github/workflows/pylint.yml
+          pytest test/github/workflows/pylint.yml
